@@ -3,3 +3,4 @@
 
 # Problems
   ## [1. Cyberchase](https://cs50.harvard.edu/sql/2024/psets/0/cyberchase/#distribution-code) ----> [Code](https://github.com/me50/RG-7)
+  ## [1. 36 Views](https://cs50.harvard.edu/sql/2024/psets/0/views/) ----> [Code]()
